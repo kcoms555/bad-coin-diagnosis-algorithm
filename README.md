@@ -33,3 +33,7 @@ bin/main [발생확률] [merge|step|merge2]
 # 참고자료 : 문제의 종류
 ![image](https://user-images.githubusercontent.com/48780754/96365701-78311980-117d-11eb-83ee-a3f6ce8efc45.png)  
 -- 회의발표자료/02_문기의분석.pdf 중 1page
+
+
+### 참고문헌
+E. Purdy(2011), Lower Bounds for Coin-Weighing Problems, ACM Transactions on Computation Theory, 2(2):3, 1-12.
