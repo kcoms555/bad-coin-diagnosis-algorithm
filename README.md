@@ -25,7 +25,7 @@ make
 ```
 g++ source/main.cpp source/Coins.cpp source/balance.c -o bin/main
 ```
-4.
+4. 실행
 ```
 bin/main [발생확률] [merge|step|merge2]
 ```
